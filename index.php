@@ -2,4 +2,8 @@
 
 phpinfo();
 
+$a = function (){
+
+};
+
 ?>;
